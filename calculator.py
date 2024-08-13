@@ -25,6 +25,6 @@ elif operation == "Divide":
         result = "Error! Division by zero."
 
 # Display the result
-st.write("Result:", result)
+st.write("Result_W:", result)
 
 
